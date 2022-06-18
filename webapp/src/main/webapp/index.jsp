@@ -33,6 +33,6 @@
    
    <h1> Automated job to update Tomcat server data after pushing code </h1>
    <h1> Thankyou, Happy Learning from MRG!!! </h1>
-
+   <h1> Automated Jenkins job to build image from Tomcat, create container after pushing the code to master </h1>
   
 </form>
